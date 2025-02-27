@@ -13,4 +13,6 @@ nav:
   - Лабораторная 3: lab3.md
   - Лабораторная 4: lab4.md
 
-theme: material
+site_url: https://blkrv.github.io/ITMO_ICT_WebDevelopment_2024-2025/
+theme:
+  name: material
